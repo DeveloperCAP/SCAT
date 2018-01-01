@@ -1,0 +1,1037 @@
+[
+    {
+        "attachments": [
+            {
+                "fallback": "GitHub: ARM versions available ? \u00b7 Issue #181 \u00b7 heptio/sonobuoy",
+                "text": "Do you know if ARM images exist ? I try that but it fails : $ docker pull <http://gcr.io/heptio-images/sonobuoy-arm:v0.10.0|gcr.io/heptio-images/sonobuoy-arm:v0.10.0> Error response from daemon: manifest for <http://gcr.io/heptio-images/sonobuoy-arm:v0.10|gcr.io/heptio-images/sonobuoy-arm:v0.10>....",
+                "thumb_url": "https://avatars0.githubusercontent.com/u/29233?s=400&v=4",
+                "title": "ARM versions available ? \u00b7 Issue #181 \u00b7 heptio/sonobuoy",
+                "title_link": "https://github.com/heptio/sonobuoy/issues/181"
+            }
+        ],
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "Hi <@U0AHWBL3U> - I chimed in at <https://github.com/heptio/sonobuoy/issues/181>",
+        "ts": "1513783354.000121",
+        "type": "message",
+        "user": "U80007HKJ"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "hi, anyone knows if ARM images exist for sonobuoy from Heptio ?",
+        "ts": "1513772398.000156",
+        "type": "message",
+        "user": "U0AHWBL3U"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "ah, good point",
+        "ts": "1513383819.000037",
+        "type": "message",
+        "user": "U09R0N2BF"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "in `lang_image`",
+        "ts": "1513373707.000184",
+        "type": "message",
+        "user": "U0EFRDLSJ"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "probably the main thing is base image selection",
+        "ts": "1513373698.000396",
+        "type": "message",
+        "user": "U0EFRDLSJ"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "For cross-compilation, probably not a lot",
+        "ts": "1513373672.000505",
+        "type": "message",
+        "user": "U0EFRDLSJ"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "(only for pure go binaries, but everything we dockerize currently is pure go, so yay)",
+        "ts": "1513365304.000061",
+        "type": "message",
+        "user": "U09R0N2BF"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "recent versions of rules_go let you set goos and goarch on go_binary",
+        "ts": "1513365288.000216",
+        "type": "message",
+        "user": "U09R0N2BF"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "<@U0EFRDLSJ> how much would be involved in getting multi-arch support into the rules_docker bazel rules?",
+        "ts": "1513365269.000027",
+        "type": "message",
+        "user": "U09R0N2BF"
+    },
+    {
+        "attachments": [
+            {
+                "fallback": "GitHub: WorksOnArm/worksonarm-news",
+                "text": "worksonarm-news - Works on Arm newsletter",
+                "thumb_url": "https://avatars1.githubusercontent.com/u/31852231?s=400&v=4",
+                "title": "WorksOnArm/worksonarm-news",
+                "title_link": "https://github.com/WorksOnArm/worksonarm-news/blob/master/2017-W51.md#google-container-registry-supporting-multiarch-via-phil-estes-ibm"
+            }
+        ],
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "just sent this out to the Works on Arm newsletter <https://github.com/WorksOnArm/worksonarm-news/blob/master/2017-W51.md#google-container-registry-supporting-multiarch-via-phil-estes-ibm>",
+        "ts": "1513364255.000157",
+        "type": "message",
+        "user": "U80007HKJ"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "<@U09R0N2BF> the docs for multi-platform manifests on GCR live at <https://cloud.google.com/container-registry/docs/concepts/image-formats> per <@U0A6CUU5A>",
+        "ts": "1513347500.000287",
+        "type": "message",
+        "user": "U80007HKJ"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "@estesp has his manifest-tool project",
+        "ts": "1513061743.000201",
+        "type": "message",
+        "user": "U0BM389D4"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "<@U09R0N2BF> talked with folks in-person at KubeCon and they said it has been gradually rolled out during the last days",
+        "ts": "1513061693.000181",
+        "type": "message",
+        "user": "U0BM389D4"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "alternately: how did you learn this was now supported on gcr?",
+        "ts": "1513026560.000116",
+        "type": "message",
+        "user": "U09R0N2BF"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "are there any docs on using this?",
+        "ts": "1513026496.000161",
+        "type": "message",
+        "user": "U09R0N2BF"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "yeah, that tweet was my motivation for pinging the channel",
+        "ts": "1513026451.000100",
+        "type": "message",
+        "user": "U09R0N2BF"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "cc <@U0UV07D8T> FYI :clap::skin-tone-2:",
+        "ts": "1513026183.000076",
+        "type": "message",
+        "user": "U0BM389D4"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "I'll rebase my PRs and we can take a look aftet v1.9 is out",
+        "ts": "1513026104.000508",
+        "type": "message",
+        "user": "U0BM389D4"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "@ixdy ASAP I guess :grin:",
+        "ts": "1513026065.000350",
+        "type": "message",
+        "user": "U0BM389D4"
+    },
+    {
+        "attachments": [
+            {
+                "author_icon": "https://pbs.twimg.com/profile_images/927649627016433664/uEZRTnIo_normal.jpg",
+                "author_link": "https://twitter.com/estesp/status/940322566937501699",
+                "author_name": "Phil Estes",
+                "author_subname": "@estesp",
+                "fallback": "<https://twitter.com/estesp|@estesp>: It's a Christmas miracle! <http://gcr.io|gcr.io> registry is open for business with multi-platform \"manifest list\" images! // cc: <https://twitter.com/kubernetesonarm|@kubernetesonarm> for the tip <https://pbs.twimg.com/media/DQyyTLpXUAEbeZr.jpg>",
+                "image_url": "https://pbs.twimg.com/media/DQyyTLpXUAEbeZr.jpg",
+                "text": "It's a Christmas miracle! <http://gcr.io|gcr.io> registry is open for business with multi-platform \"manifest list\" images! // cc: <https://twitter.com/kubernetesonarm|@kubernetesonarm> for the tip <https://pbs.twimg.com/media/DQyyTLpXUAEbeZr.jpg>"
+            }
+        ],
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "FYI everyone :grin: <https://twitter.com/estesp/status/940322566937501699>",
+        "ts": "1513026031.000442",
+        "type": "message",
+        "user": "U0BM389D4"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "(I have no idea how this will work with bazel. I'm guessing \"it won't\", at least for now :\\ )",
+        "ts": "1513025754.000143",
+        "type": "message",
+        "user": "U09R0N2BF"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "<@U0BM389D4> so when are we going to try to take advantage of multi-arch docker images? :)",
+        "ts": "1513025737.000219",
+        "type": "message",
+        "user": "U09R0N2BF"
+    },
+    {
+        "attachments": [
+            {
+                "fallback": "GitHub: bump debian base images to debian stretch by rphillips \u00b7 Pull Request #52744 \u00b7 kubernetes/kubernetes",
+                "text": "What this PR does / why we need it: Bumps the base images from Debian Jessie to Debian Stretch. Upgrades packages including rbd Which issue this PR fixes: #45010 Special notes for your reviewer: Re...",
+                "thumb_url": "https://avatars2.githubusercontent.com/u/1963?s=400&v=4",
+                "title": "bump debian base images to debian stretch by rphillips \u00b7 Pull Request #52744 \u00b7 kubernetes/kubernetes",
+                "title_link": "https://github.com/kubernetes/kubernetes/pull/52744/files#r148146964"
+            }
+        ],
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "debian:stretch + s390x is having issues <https://github.com/kubernetes/kubernetes/pull/52744/files#r148146964>",
+        "ts": "1509490310.000199",
+        "type": "message",
+        "user": "U09R0N2BF"
+    },
+    {
+        "attachments": [
+            {
+                "fallback": "GitHub: Deploy multi-arch kube-proxy ds by mkumatag \u00b7 Pull Request #53598 \u00b7 kubernetes/kubernetes",
+                "text": "What this PR does / why we need it: Currently, kubeadm will deploy kube-proxy of the type master architecture even if the node is different architecture than master. This PR will deploy kube-proxy ...",
+                "thumb_url": "https://avatars3.githubusercontent.com/u/12646029?v=4&s=400",
+                "title": "Deploy multi-arch kube-proxy ds by mkumatag \u00b7 Pull Request #53598 \u00b7 kubernetes/kubernetes",
+                "title_link": "https://github.com/kubernetes/kubernetes/pull/53598"
+            }
+        ],
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "PR - <https://github.com/kubernetes/kubernetes/pull/53598>",
+        "ts": "1507568429.000352",
+        "type": "message",
+        "user": "U0X7F1FB2"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "<@U09R0N2BF> <@U0BM389D4> I've submitted the PR to create different `kube-proxy` ds for different architecture which should support multi-arch k8s cluster via kubeadm.",
+        "ts": "1507568370.000146",
+        "type": "message",
+        "user": "U0X7F1FB2"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "<@U0BM389D4> that would be awesome. thanks!",
+        "ts": "1506449331.000057",
+        "type": "message",
+        "user": "U74KSREUT"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "<@U74KSREUT> I can push v1.8.0-rc-1 now if you like",
+        "ts": "1506449287.000023",
+        "type": "message",
+        "user": "U0BM389D4"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "<@U0BM389D4> I tried using 1.7.5 with no luck :disappointed:",
+        "ts": "1506444176.000407",
+        "type": "message",
+        "user": "U74KSREUT"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "subtype": "file_share",
+        "team": "T09NY5SBT",
+        "text": "<@U74KSREUT> uploaded a file: <https://kubernetes.slack.com/files/U74KSREUT/F796SCT61/image.png|luxas kube-proxy repo> and commented: <@U0BM389D4> thanks. your dockerhub repo is missing kube-proxy 1.8+. Did you take those down?",
+        "ts": "1506442717.000444",
+        "type": "message",
+        "upload": true,
+        "user": "U74KSREUT",
+        "username": "cox_russell"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "does the scheduler have affinity/anti-affinity support for architecture?",
+        "ts": "1506116973.000130",
+        "type": "message",
+        "user": "U09R0N2BF"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "gotcha. but not today",
+        "ts": "1506116766.000223",
+        "type": "message",
+        "user": "U09R0N2BF"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "for example: `kubectl -n kube-system set image daemonset/kube-proxy kube-proxy=luxas/kube-proxy:v1.8.0-beta.1` if you're testing out v1.8",
+        "ts": "1506116664.000079",
+        "type": "message",
+        "user": "U0BM389D4"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "<@U74KSREUT> you need to use the `luxas/kube-proxy` image",
+        "ts": "1506116642.000096",
+        "type": "message",
+        "user": "U0BM389D4"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "but indeed, not now",
+        "ts": "1506116588.000197",
+        "type": "message",
+        "user": "U0BM389D4"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "<@U09R0N2BF> it's gonna be once we get manifest lists",
+        "ts": "1506116581.000098",
+        "type": "message",
+        "user": "U0BM389D4"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "I'm not sure having clusters with more than one node architecture is supported",
+        "ts": "1506111724.000290",
+        "type": "message",
+        "user": "U09R0N2BF"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "on my head node (amd64), I use kubectl -n kube-system set image daemonset/kube-proxy kube-proxy=luxas/kube-proxy:0luxas_kube-proxy-amd64",
+        "ts": "1505845006.000050",
+        "type": "message",
+        "user": "U74KSREUT"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "has anyone gotten this to work?",
+        "ts": "1505844943.000228",
+        "type": "message",
+        "user": "U74KSREUT"
+    },
+    {
+        "attachments": [
+            {
+                "fallback": "GitHub: luxas/kubeadm-workshop",
+                "text": "kubeadm-workshop - Showcasing a bare-metal multi-platform kubeadm setup with persistent storage and monitoring",
+                "thumb_url": "https://avatars3.githubusercontent.com/u/5442475?v=4&s=400",
+                "title": "luxas/kubeadm-workshop",
+                "title_link": "https://github.com/luxas/kubeadm-workshop"
+            }
+        ],
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "hey multi-platform! After following the directions at <https://github.com/luxas/kubeadm-workshop>, I get crashloopbackoff's with kube-proxy and weave-net. My head node is amd64, and the node I'm trying to join is arm64.",
+        "ts": "1505844883.000185",
+        "type": "message",
+        "user": "U74KSREUT"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "We're eventually gonna move to kube's own repo, etc. but that will take a very long time",
+        "ts": "1501579170.074800",
+        "type": "message",
+        "user": "U0BM389D4"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "It is a hard requirement as kubernetes is released to that repo.",
+        "ts": "1501579149.067075",
+        "type": "message",
+        "user": "U0BM389D4"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "<@U0UV07D8T> Yes, unfortunately",
+        "ts": "1501579134.061405",
+        "type": "message",
+        "user": "U0BM389D4"
+    },
+    {
+        "attachments": [
+            {
+                "fallback": "GitHub: Improve the multi-platform compability \u00b7 Issue #288 \u00b7 kubernetes/features",
+                "text": "Kubernetes on multiple platforms One-line feature description (can be used as a release note): Kubernetes should work on the platforms the community expects it to work on. Automated CI e2e tests s...",
+                "thumb_url": "https://avatars3.githubusercontent.com/u/5442475?v=4&s=400",
+                "title": "Improve the multi-platform compability \u00b7 Issue #288 \u00b7 kubernetes/features",
+                "title_link": "https://github.com/kubernetes/features/issues/288#issuecomment-317968541"
+            }
+        ],
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "luxas: question on <https://github.com/kubernetes/features/issues/288#issuecomment-317968541> is GCR a hard requirement? Would it be possible to use a different public registry that supports Image manifest V2 schema 2?",
+        "ts": "1501082649.394284",
+        "type": "message",
+        "user": "U0UV07D8T"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "<@U09R0N2BF> can you help us publishing the images from `test/images` folder?",
+        "ts": "1499334947.850687",
+        "type": "message",
+        "user": "U0X7F1FB2"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "<@U0BM389D4> <@U09R0N2BF> ^^^^^^^^^^",
+        "ts": "1499319900.436587",
+        "type": "message",
+        "user": "U0X7F1FB2"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "There are few image deps for conformance test from kubernetes/kubernetes.github.io repo, created a issue to discuss further on this - <https://github.com/kubernetes/kubernetes/issues/48530>",
+        "ts": "1499319823.424329",
+        "type": "message",
+        "user": "U0X7F1FB2"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "We\u2019ve been putting effort into similar configs on multiple providers.",
+        "ts": "1495734914.941616",
+        "type": "message",
+        "user": "U09R2MLPK"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "Followup from my PSA at the community meeting this morning. Touch base with me or in <#C09QZTRH7|sig-scale> if you are interested in the large cluster scalability configs.",
+        "ts": "1495734892.933543",
+        "type": "message",
+        "user": "U09R2MLPK"
+    },
+    {
+        "attachments": [
+            {
+                "fallback": "GitHub: Improve the multi-platform compability \u00b7 Issue #288 \u00b7 kubernetes/features",
+                "text": "Kubernetes on multiple platforms One-line feature description (can be used as a release note): Kubernetes should work on the platforms the community expects it to work on. Automated CI e2e tests s...",
+                "thumb_url": "https://avatars1.githubusercontent.com/u/5442475?v=3&s=400",
+                "title": "Improve the multi-platform compability \u00b7 Issue #288 \u00b7 kubernetes/features",
+                "title_link": "https://github.com/kubernetes/features/issues/288"
+            }
+        ],
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "Feel free to comment on: <https://github.com/kubernetes/features/issues/288>",
+        "ts": "1493542993.951355",
+        "type": "message",
+        "user": "U0BM389D4"
+    },
+    {
+        "attachments": [
+            {
+                "fallback": "GitHub: [WIP] Image catalog for multiarch images by mkumatag \u00b7 Pull Request #45074 \u00b7 kubernetes/kubernetes",
+                "text": "What this PR does / why we need it: This PR is for creating docker image catalog for multi architecture, whoever is referring any images can use this catalog which will provide proper image in runt...",
+                "thumb_url": "https://avatars1.githubusercontent.com/u/12646029?v=3&s=400",
+                "title": "[WIP] Image catalog for multiarch images by mkumatag \u00b7 Pull Request #45074 \u00b7 kubernetes/kubernetes",
+                "title_link": "https://github.com/kubernetes/kubernetes/pull/45074"
+            }
+        ],
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "Submitted one more PR for multi arch image catalog - <https://github.com/kubernetes/kubernetes/pull/45074>",
+        "ts": "1493355062.413476",
+        "type": "message",
+        "user": "U0X7F1FB2"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "BTW; I'm gonna update the multi-platform proposal soon-ish to cover the current state and roadmap for the next release",
+        "ts": "1493134797.169176",
+        "type": "message",
+        "user": "U0BM389D4"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "Thanks <@U0X7F1FB2>!",
+        "ts": "1493134763.155850",
+        "type": "message",
+        "user": "U0BM389D4"
+    },
+    {
+        "attachments": [
+            {
+                "fallback": "GitHub: Multi Arch test images by mkumatag \u00b7 Pull Request #44910 \u00b7 kubernetes/kubernetes",
+                "text": "",
+                "thumb_url": "https://avatars1.githubusercontent.com/u/12646029?v=3&s=400",
+                "title": "Multi Arch test images by mkumatag \u00b7 Pull Request #44910 \u00b7 kubernetes/kubernetes",
+                "title_link": "https://github.com/kubernetes/kubernetes/pull/44910"
+            }
+        ],
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "submitted the PR - <https://github.com/kubernetes/kubernetes/pull/44910> for multi architecture k8s test docker images. PTAL..",
+        "ts": "1493108364.770159",
+        "type": "message",
+        "user": "U0X7F1FB2"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "subtype": "channel_topic",
+        "team": "T09NY5SBT",
+        "text": "<@U1B8PHP0D> set the channel topic: Kubernetes for multiple platforms | <https://github.com/kubernetes/community/blob/master/contributors/design-proposals/multi-platform.md>",
+        "topic": "Kubernetes for multiple platforms | <https://github.com/kubernetes/community/blob/master/contributors/design-proposals/multi-platform.md>",
+        "ts": "1492776046.542544",
+        "type": "message",
+        "user": "U1B8PHP0D"
+    },
+    {
+        "attachments": [
+            {
+                "fallback": "GitHub: kubernetes/kubernetes",
+                "text": "kubernetes - Production-Grade Container Scheduling and Management",
+                "thumb_url": "https://avatars3.githubusercontent.com/u/13629408?v=3&s=400",
+                "title": "kubernetes/kubernetes",
+                "title_link": "https://github.com/kubernetes/kubernetes/tree/master/examples/guestbook"
+            }
+        ],
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "Working on getting guestbook example for multi arch - <https://github.com/kubernetes/kubernetes/tree/master/examples/guestbook> . I'm almost done with docker images and in dilemma how to handle the deployment and service yaml files for deployment purpose. What is the best solution here? Creation of different yaml files with different imagenames or have some sort of login in the testfile to replace the imagenames runtime?",
+        "ts": "1492499056.996956",
+        "type": "message",
+        "user": "U0X7F1FB2"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "<@U4QU9CXFA> no unfortunately",
+        "ts": "1492443129.848812",
+        "type": "message",
+        "user": "U0BM389D4"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "Are you at Dockercon?",
+        "ts": "1492440194.019174",
+        "type": "message",
+        "user": "U4QU9CXFA"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "<@U0BM389D4> - I'm sharpening up my Terraform skills on a project with a shorter fuse (for Red Hat Summit in May), hope to get back to this soon.",
+        "ts": "1492440088.991617",
+        "type": "message",
+        "user": "U4QU9CXFA"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "Hi <@U0BM389D4> !",
+        "ts": "1492439952.955499",
+        "type": "message",
+        "user": "U4QU9CXFA"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "<@U0A6A01FG> status changed now :grin:",
+        "ts": "1492439537.847604",
+        "type": "message",
+        "user": "U0BM389D4"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "How's the Packet CI work proceeding?",
+        "ts": "1492438645.617931",
+        "type": "message",
+        "user": "U0BM389D4"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "<@U4QU9CXFA> around?",
+        "ts": "1492438621.612089",
+        "type": "message",
+        "user": "U0BM389D4"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "Thanks <@U0BM389D4> for creating this group and inviting me.. :slightly_smiling_face:",
+        "ts": "1492126449.835081",
+        "type": "message",
+        "user": "U0X7F1FB2"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "For problem 2, I'm going to switch to arm-linux-gnueabihf-gcc",
+        "ts": "1492121173.939856",
+        "type": "message",
+        "user": "U0FUZV5RT"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "Oh wow, I didn't spot that this channel was just created today! What serendipity.",
+        "ts": "1492120954.892246",
+        "type": "message",
+        "user": "U0FUZV5RT"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "I'm just starting my investigation now, but I thought I'd post the issues here in case anyone can offer any hints",
+        "ts": "1492120878.874446",
+        "type": "message",
+        "user": "U0FUZV5RT"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "Problem 2 is: `exec: \"arm-linux-gnueabi-gcc\": executable file not found in $PATH`",
+        "ts": "1492120856.868963",
+        "type": "message",
+        "user": "U0FUZV5RT"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "Problem 1 is: `/opt/bin/flanneld: relocation error: /lib/libpthread.so.0: symbol __libc_vfork, version GLIBC_PRIVATE not defined in file libc.so.6 with link time reference`",
+        "ts": "1492120832.863192",
+        "type": "message",
+        "user": "U0FUZV5RT"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "I'm a/the flannel maintainer and we use kube-cross to build flannel on different platforms. mike danese has recently bumped the kube-cross version that we use (to get a newer version of go) but now we're hitting some problems. Is this an appropriate place to find help?",
+        "ts": "1492120818.859893",
+        "type": "message",
+        "user": "U0FUZV5RT"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "Enjoy :palm_tree: and :soccer:",
+        "ts": "1492120033.678533",
+        "type": "message",
+        "user": "U0A6A01FG"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "Yep, slack ftw :palm_tree:",
+        "ts": "1492120022.676064",
+        "type": "message",
+        "user": "U0BM389D4"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "Sounds good.  I take it the palm tree means \"I am on holiday\"?",
+        "ts": "1492120009.673230",
+        "type": "message",
+        "user": "U0A6A01FG"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "Will look closer to that next week, but just came in quickly here to spawn the discussion!",
+        "ts": "1492119991.669131",
+        "type": "message",
+        "user": "U0BM389D4"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "Could we `docker load` those images, and thus we don't need gcr?",
+        "ts": "1492119941.657272",
+        "type": "message",
+        "user": "U0A6A01FG"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "And I thought you'd compiled a list of all the images that kubeadm needs to run a cluster?",
+        "ts": "1492119908.649258",
+        "type": "message",
+        "user": "U0A6A01FG"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "kops has the ability to \"docker load\" images at boot",
+        "ts": "1492119899.647140",
+        "type": "message",
+        "user": "U0A6A01FG"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "I'm thinking more that a lot of people want the ability to load docker images from their own http server / s3 bucket",
+        "ts": "1492119868.639985",
+        "type": "message",
+        "user": "U0A6A01FG"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "Yeah, I'm talking with some CNCF ppl about that too",
+        "ts": "1492119837.632519",
+        "type": "message",
+        "user": "U0BM389D4"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "Primarily because of people that want to be PCI compliant or something like that",
+        "ts": "1492119826.630146",
+        "type": "message",
+        "user": "U0A6A01FG"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "Idea: there's been discussions about not relying on GCR for other reasons",
+        "ts": "1492119814.627339",
+        "type": "message",
+        "user": "U0A6A01FG"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "Haha <@U0A6A01FG>, just got the ping that the channel was created that I had waited for and felt for inviting some ppl :slightly_smiling_face:",
+        "ts": "1492119812.626801",
+        "type": "message",
+        "user": "U0BM389D4"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "I have your video bookmarked :slightly_smiling_face:",
+        "ts": "1492119781.619257",
+        "type": "message",
+        "user": "U0A6A01FG"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "In any case, we should work together to bring up kops on  scaleway",
+        "ts": "1492119776.618159",
+        "type": "message",
+        "user": "U0A6A01FG"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "Or is this your holiday?",
+        "ts": "1492119747.611271",
+        "type": "message",
+        "user": "U0A6A01FG"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "Aren't you supposed to be on holiday <@U0BM389D4>?",
+        "ts": "1492119743.610266",
+        "type": "message",
+        "user": "U0A6A01FG"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "But will put together some resources on this matter in the coming week",
+        "ts": "1492118842.384945",
+        "type": "message",
+        "user": "U0BM389D4"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "Biggest blocker right now is GCR not supporting v2 schema 2 properly. I've been in touch with the GCR team but haven't got a proper response",
+        "ts": "1492118801.374359",
+        "type": "message",
+        "user": "U0BM389D4"
+    },
+    {
+        "attachments": [
+            {
+                "fallback": "Slides: KubeCon Presentation by lucask",
+                "image_url": "https://s3.amazonaws.com/media-p.slid.es/thumbnails/3a2f3e033b84fdd53f8c2dbd37448bfb/thumb.jpg",
+                "text": "A presentation created with Slides.",
+                "title": "KubeCon Presentation by lucask",
+                "title_link": "http://slides.com/lucask/kubecon-berlin#/"
+            }
+        ],
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "And slides: <http://slides.com/lucask/kubecon-berlin#/>",
+        "ts": "1492118694.346900",
+        "type": "message",
+        "user": "U0BM389D4"
+    },
+    {
+        "attachments": [
+            {
+                "author_link": "https://www.youtube.com/channel/UCvqbFHwN-nwalWPjPUKpvTA",
+                "author_name": "Cloud Native Computing Foundation",
+                "fallback": "YouTube Video: Autoscaling a Multi-Platform Kubernetes Cluster Built with kubeadm [I] - Lucas K\u00e4ldstr\u00f6m",
+                "text": "",
+                "thumb_url": "https://i.ytimg.com/vi/ZdzKQwMjg2w/hqdefault.jpg",
+                "title": "Autoscaling a Multi-Platform Kubernetes Cluster Built with kubeadm [I] - Lucas K\u00e4ldstr\u00f6m",
+                "title_link": "https://youtu.be/ZdzKQwMjg2w"
+            }
+        ],
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "My talk for this recently at KubeCon Seattle: <https://youtu.be/ZdzKQwMjg2w>",
+        "ts": "1492118668.340100",
+        "type": "message",
+        "user": "U0BM389D4"
+    },
+    {
+        "attachments": [
+            {
+                "fallback": "GitHub: kubernetes/community",
+                "text": "Kubernetes community content",
+                "thumb_url": "https://avatars3.githubusercontent.com/u/13629408?v=3&s=400",
+                "title": "kubernetes/community",
+                "title_link": "https://github.com/kubernetes/community/blob/master/contributors/design-proposals/multi-platform.md"
+            }
+        ],
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "I'll update my proposal for this soon: <https://github.com/kubernetes/community/blob/master/contributors/design-proposals/multi-platform.md>",
+        "ts": "1492118606.323980",
+        "type": "message",
+        "user": "U0BM389D4"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "Hi everyone! This is kind of an experiment for having a Slack channel for discussing/improving the k8s multiarch state",
+        "ts": "1492118568.313881",
+        "type": "message",
+        "user": "U0BM389D4"
+    },
+    {
+        "channel": "C4YCQ57CG",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "inviting <@U4QU9CXFA> <@U0AGURFHS> <@U0AH4GABW> <@U09QZ63DX> <@U2KBT7MFY> <@U0X7F1FB2> <@U0A6A01FG> <@U09R0N2BF> <@U15E5E538> <@U09RJRC6L> <@U0B81UJ90> <@U0DC4MGP2> <@U1B8PHP0D> <@U0BC5M36Y>",
+        "ts": "1492118458.284652",
+        "type": "message",
+        "user": "U0BM389D4"
+    },
+    {
+        "channel": "C0G677AQ0",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "Guys, how do you monitor the disk usage of PVCs ? what\u2019s the best/recommended tool for that? As I understand heapster doesn\u2019t provide those details.",
+        "ts": "1499707753.000498",
+        "type": "message",
+        "user": "U2FUQG8H5"
+    },
+    {
+        "channel": "C0G677AQ0",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "Not sure if this is the right channel for this, but is there a Kubernetes Dashboard that can be deployed per Namespace?  We have setup a cluster and have given the developer their own namespace to work in, but do not want to give them access to the general K8S Dashboard. Don't want to give them admin access.",
+        "ts": "1490200269.277423",
+        "type": "message",
+        "user": "U3F44JD2S"
+    },
+    {
+        "channel": "C0G677AQ0",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "<http://kubernetes.io|kubernetes.io>  is giving me:\n504 Gateway Time-out\nnginx/1.10.3",
+        "ts": "1489610387.175446",
+        "type": "message",
+        "user": "U4K1Z1LRK"
+    },
+    {
+        "channel": "C0G677AQ0",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "Is there a good way of monitoring kubernetes job failures in kubernetes? E.g. if active_deadline_seconds expires.",
+        "ts": "1486002442.000028",
+        "type": "message",
+        "user": "U28CCA456"
+    },
+    {
+        "channel": "C0G677AQ0",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "<http://kubernetes.io/docs/user-guide/services/#type-loadbalancer>",
+        "ts": "1481014088.000006",
+        "type": "message",
+        "user": "U1F1BLB50"
+    },
+    {
+        "channel": "C0G677AQ0",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "i'm not sure but i like to know if it is possible with kubernetes balance with differents weights the same applications with 3 or more application version, i'm reading the loadbalancer document without lucky",
+        "ts": "1481014086.000005",
+        "type": "message",
+        "user": "U1F1BLB50"
+    },
+    {
+        "channel": "C0G677AQ0",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "hello",
+        "ts": "1481013872.000004",
+        "type": "message",
+        "user": "U1F1BLB50"
+    },
+    {
+        "channel": "C0G677AQ0",
+        "icons": {},
+        "team": "T09NY5SBT",
+        "text": "Hey,\nanybody here used ClusterRoleBinding with RBAC?",
+        "ts": "1471519822.000014",
+        "type": "message",
+        "user": "U0LG0JE2C"
+    }
+]
