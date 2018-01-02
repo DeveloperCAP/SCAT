@@ -1,0 +1,812 @@
+[
+    {
+        "channel_id": "C4YCQ57CG",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "multi-platform",
+        "num_members": 82,
+        "purpose": {
+            "value": ""
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C0G677AQ0",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "ops-status",
+        "num_members": 235,
+        "purpose": {
+            "value": "operations issues that might be relevant to the K8s community"
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C09RAJ1U3",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "shippable",
+        "num_members": 60,
+        "purpose": {
+            "value": "Notifications from Shippable about the Kubernetes project."
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C0LL8B19B",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "sig-cluster-ops",
+        "num_members": 898,
+        "purpose": {
+            "value": ""
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C0EN96KUY",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "sig-auth",
+        "num_members": 1031,
+        "purpose": {
+            "value": ""
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C25QWBR71",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "kubernetes-careers",
+        "num_members": 1253,
+        "purpose": {
+            "value": ""
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C3WERB7DE",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "openstack-helm",
+        "num_members": 280,
+        "purpose": {
+            "value": "Channel for developers and operators deploying Openstack applications (either one or as a collection) on a Kubernetes control plane using Kubernetes and Helm natives."
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C1DDHDH8D",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "sig-node-rkt",
+        "num_members": 204,
+        "purpose": {
+            "value": "Discussion of issues, bugs, and development related to Kubernetes with the rkt container runtime: https://coreos.com/rkt/docs/latest/using-rkt-with-kubernetes.html"
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C09R95XKQ",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "travis-ci",
+        "num_members": 113,
+        "purpose": {
+            "value": "Updates from Travis about Kubernetes project."
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C09QZ4DQB",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "sig-testing",
+        "num_members": 610,
+        "purpose": {
+            "value": "Test infrastructure for Kubernetes. Google group: https://groups.google.com/forum/#!forum/kubernetes-sig-testing"
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C0LRMHZ1T",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "sig-aws",
+        "num_members": 2229,
+        "purpose": {
+            "value": "Special-Interest-Group for AWS on Kubernetes"
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C09NY9DNZ",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "github",
+        "num_members": 426,
+        "purpose": {
+            "value": "Integration with Kubernetes GitHub channel."
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C0JCJG485",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "de-users",
+        "num_members": 288,
+        "purpose": {
+            "value": ""
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C0LE94Q8Z",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "fr-users",
+        "num_members": 262,
+        "purpose": {
+            "value": "French language questions"
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C2S1VHFCH",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "kompose",
+        "num_members": 264,
+        "purpose": {
+            "value": "discuss the kompose incubator project"
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C1L57L91V",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "kubernetes-pm",
+        "num_members": 203,
+        "purpose": {
+            "value": "to discuss product and project managment"
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C3QUFP0QM",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "kops",
+        "num_members": 2572,
+        "purpose": {
+            "value": "All things kops - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management https://github.com/kubernetes/kops - currently support for production grade AWS installation and cluster maintenance"
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C5HJXTT9Q",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "sig-azure",
+        "num_members": 367,
+        "purpose": {
+            "value": "A Special Interest Group for building, deploying, maintaining, supporting, and using Kubernetes on Azure Container Service."
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C09QZTRH7",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "sig-scalability",
+        "num_members": 770,
+        "purpose": {
+            "value": "Discussions around scaling Kubernetes"
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C09QYUH5W",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "sig-network",
+        "num_members": 2271,
+        "purpose": {
+            "value": "Discussion around Networking in Kubernetes."
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C09R1LV8S",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "sig-autoscaling",
+        "num_members": 1048,
+        "purpose": {
+            "value": "Channel for discussing Autoscaling in Kubernetes."
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C18NZM5K9",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "sig-apps",
+        "num_members": 1188,
+        "purpose": {
+            "value": "A Special Interest Group for deploying and operating applications in Kubernetes."
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C09R1PJR3",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "sig-multicluster",
+        "num_members": 918,
+        "purpose": {
+            "value": "Channel for discussing Federation and other multi cluster projects in Kubernetes."
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C0XBYPBF0",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "community-sites",
+        "num_members": 783,
+        "purpose": {
+            "value": "talk about the varying unofficial sites that are being built to support and further the kubernetes community!"
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C0SJ4AFB7",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "sig-windows",
+        "num_members": 430,
+        "purpose": {
+            "value": "Let's bring Windows Containers support to Kubernetes, together. **NOT** a support channel for Azure platform."
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C0BP8PW9G",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "sig-node",
+        "num_members": 853,
+        "purpose": {
+            "value": ""
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C09TP78DV",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "sig-scheduling",
+        "num_members": 719,
+        "purpose": {
+            "value": "Discuss resource management, scheduling, QoS. https://github.com/kubernetes/community/tree/master/sig-scheduling"
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C1TU9EB9S",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "sig-contribex",
+        "num_members": 184,
+        "purpose": {
+            "value": "Discussion about improvements to the Kubernetes contributor experience."
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C0NH30761",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "helm-users",
+        "num_members": 3081,
+        "purpose": {
+            "value": "Channel for active development on helm and deployment manager."
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C2P1JHS2E",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "kubeadm",
+        "num_members": 1570,
+        "purpose": {
+            "value": "support and questions about kubeadm"
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C09R1JVU6",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "sig-ui",
+        "num_members": 521,
+        "purpose": {
+            "value": "Channel for discussing UI in Kubernetes."
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C09R23FHP",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "kubernetes-dev",
+        "num_members": 2865,
+        "purpose": {
+            "value": "Channel for developers of Kubernetes to have technical discussions. Archive at http://kubernetes.slackarchive.io/kubernetes-dev"
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C0ELB338T",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "sig-big-data",
+        "num_members": 537,
+        "purpose": {
+            "value": "A Special Interest Group for deploying and operating big data applications (Spark, Kafka, Hadoop, Flink, Storm, etc) on Kubernetes. We focus on integrations with big data applications and architecting the best ways to run them on Kubernetes."
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C0X2V69D0",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "kubernetes-novice",
+        "num_members": 3581,
+        "purpose": {
+            "value": "How do you pronounce Kubernetes and other novice questions that come up from time to time."
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C09NXKJKA",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": true,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "kubernetes-users",
+        "num_members": 27782,
+        "purpose": {
+            "value": ""
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C09R1GTPW",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "events",
+        "num_members": 1385,
+        "purpose": {
+            "value": "Channel for upcoming Kubernetes event announcements."
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C20HH14P7",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "sig-instrumentation",
+        "num_members": 516,
+        "purpose": {
+            "value": ""
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C13J86Z63",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "sig-cluster-lifecycle",
+        "num_members": 1324,
+        "purpose": {
+            "value": "Discussion about deployment, scaling,  upgrade, turndown of Kubernetes clusters."
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C2C40FMNF",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "sig-release",
+        "num_members": 771,
+        "purpose": {
+            "value": ""
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C3E7JU85Q",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "sig-onprem",
+        "num_members": 545,
+        "purpose": {
+            "value": "Discussions related to running Kubernetes on premises / bare metal"
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C33M7CSTY",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "openstack-kolla",
+        "num_members": 166,
+        "purpose": {
+            "value": "discussions for using kolla to run OpenStack control plane on K8s"
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C0LE6096Z",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "fr-events",
+        "num_members": 165,
+        "purpose": {
+            "value": "Events in France!"
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C0EG7JC6T",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "sig-api-machinery",
+        "num_members": 802,
+        "purpose": {
+            "value": "Live chat for the API Machinery SIG: https://goo.gl/q0UT3A"
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C2GL57FJ4",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "sig-cli",
+        "num_members": 422,
+        "purpose": {
+            "value": "a centralized place / meeting to discuss things related to the CLI architecture, standards, compliance, and usability; or anything else related to `kubectl` (and likely others)"
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C1J0BPD2M",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "sig-docs",
+        "num_members": 313,
+        "purpose": {
+            "value": "Discuss docs and site issues on kubernetes.io."
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C2V9WJSJD",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "kubespray",
+        "num_members": 854,
+        "purpose": {
+            "value": "Kargo incubator project\r\nhttps://groups.google.com/forum/#!forum/kubernetes-kargo"
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C5TC7A9AR",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "wg-resource-mgmt",
+        "num_members": 109,
+        "purpose": {
+            "value": "Discuss and review cross SIG features around compute resource management"
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C09R5RQNL",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "jenkins-ci",
+        "num_members": 805,
+        "purpose": {
+            "value": "Kubernetes project Jenkins messages."
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C09QZFCE5",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "sig-storage",
+        "num_members": 1494,
+        "purpose": {
+            "value": "Discussion around Storage in Kubernetes."
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C1F5CT6Q1",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "minikube",
+        "num_members": 1834,
+        "purpose": {
+            "value": ""
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C09R1TL6A",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "gke",
+        "num_members": 2496,
+        "purpose": {
+            "value": "Channel for discussion about GKE/GCR/GCE (Google Container Engine, Container Registry and Compute Engine)."
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C0JCKH8JX",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "de-events",
+        "num_members": 307,
+        "purpose": {
+            "value": "All about german k8s events"
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C0T97GXQX",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "elastickube",
+        "num_members": 289,
+        "purpose": {
+            "value": "Discussion around elastickube, an open source management platform for Kubernetes https://github.com/ElasticBox/elastickube"
+        },
+        "team": "T09NY5SBT"
+    },
+    {
+        "channel_id": "C6WB33KNJ",
+        "is_archived": false,
+        "is_channel": true,
+        "is_general": false,
+        "is_group": false,
+        "is_member": true,
+        "is_starred": false,
+        "name": "sig-gcp",
+        "num_members": 100,
+        "purpose": {
+            "value": ""
+        },
+        "team": "T09NY5SBT"
+    }
+]

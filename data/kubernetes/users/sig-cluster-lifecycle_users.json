@@ -1,0 +1,401 @@
+{
+    "U09R2FL93": {
+        "color": "4cc091",
+        "deleted": false,
+        "name": "spiffxp",
+        "profile": {
+            "first_name": "Aaron",
+            "image_192": "https://secure.gravatar.com/avatar/136c97865781d43a892c50d2585fbbf2.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0002-192.png",
+            "image_24": "https://secure.gravatar.com/avatar/136c97865781d43a892c50d2585fbbf2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0002-24.png",
+            "image_32": "https://secure.gravatar.com/avatar/136c97865781d43a892c50d2585fbbf2.jpg?s=32&d=https%3A%2F%2Fa.slack-edge.com%2F0180%2Fimg%2Favatars%2Fava_0002-32.png",
+            "image_48": "https://secure.gravatar.com/avatar/136c97865781d43a892c50d2585fbbf2.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0002-48.png",
+            "image_72": "https://secure.gravatar.com/avatar/136c97865781d43a892c50d2585fbbf2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0002-72.png",
+            "image_original": "",
+            "last_name": "Crickenberger",
+            "real_name": "Aaron Crickenberger",
+            "title": "Samsung SDS (sig-testing, release-1.9, steering-committee)"
+        },
+        "team": "T09NY5SBT",
+        "user_id": "U09R2FL93"
+    },
+    "U09R2P666": {
+        "color": "235e5b",
+        "deleted": false,
+        "name": "timothysc",
+        "profile": {
+            "first_name": "Timothy",
+            "image_192": "https://avatars.slack-edge.com/2017-02-09/139306130674_f36f4137b65975be05f0_192.jpg",
+            "image_24": "https://avatars.slack-edge.com/2017-02-09/139306130674_f36f4137b65975be05f0_24.jpg",
+            "image_32": "https://avatars.slack-edge.com/2017-02-09/139306130674_f36f4137b65975be05f0_32.jpg",
+            "image_48": "https://avatars.slack-edge.com/2017-02-09/139306130674_f36f4137b65975be05f0_48.jpg",
+            "image_72": "https://avatars.slack-edge.com/2017-02-09/139306130674_f36f4137b65975be05f0_72.jpg",
+            "image_original": "https://avatars.slack-edge.com/2017-02-09/139306130674_f36f4137b65975be05f0_original.jpg",
+            "last_name": "St. Clair",
+            "real_name": "Timothy St. Clair",
+            "title": "steering committee \u2022 sig-scheduling \u2022 sig-testing \u2022 sig-cluster-lifecycle \u2022 sig-scale \u2022 CNCF conformance working group"
+        },
+        "team": "T09NY5SBT",
+        "user_id": "U09R2P666"
+    },
+    "U0A61FDKJ": {
+        "color": "8469bc",
+        "deleted": false,
+        "name": "rsquared",
+        "profile": {
+            "first_name": "",
+            "image_192": "https://secure.gravatar.com/avatar/917964af2fe2a4482f593d407ae98dce.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0026-192.png",
+            "image_24": "https://secure.gravatar.com/avatar/917964af2fe2a4482f593d407ae98dce.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0026-24.png",
+            "image_32": "https://secure.gravatar.com/avatar/917964af2fe2a4482f593d407ae98dce.jpg?s=32&d=https%3A%2F%2Fa.slack-edge.com%2F0180%2Fimg%2Favatars%2Fava_0026-32.png",
+            "image_48": "https://secure.gravatar.com/avatar/917964af2fe2a4482f593d407ae98dce.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F272a%2Fimg%2Favatars%2Fava_0026-48.png",
+            "image_72": "https://secure.gravatar.com/avatar/917964af2fe2a4482f593d407ae98dce.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0026-72.png",
+            "image_original": "",
+            "last_name": "",
+            "real_name": "rsquared",
+            "title": ""
+        },
+        "team": "T09NY5SBT",
+        "user_id": "U0A61FDKJ"
+    },
+    "U0A6CUU5A": {
+        "color": "df3dc0",
+        "deleted": false,
+        "name": "roberthbailey",
+        "profile": {
+            "first_name": "Robert",
+            "image_192": "https://avatars.slack-edge.com/2015-09-04/10217564822_661112e9e4470452217d_192.jpg",
+            "image_24": "https://avatars.slack-edge.com/2015-09-04/10217564822_661112e9e4470452217d_24.jpg",
+            "image_32": "https://avatars.slack-edge.com/2015-09-04/10217564822_661112e9e4470452217d_32.jpg",
+            "image_48": "https://avatars.slack-edge.com/2015-09-04/10217564822_661112e9e4470452217d_48.jpg",
+            "image_72": "https://avatars.slack-edge.com/2015-09-04/10217564822_661112e9e4470452217d_72.jpg",
+            "image_original": "https://avatars.slack-edge.com/2015-09-04/10217564822_661112e9e4470452217d_original.jpg",
+            "last_name": "Bailey",
+            "real_name": "Robert Bailey",
+            "title": ""
+        },
+        "team": "T09NY5SBT",
+        "user_id": "U0A6CUU5A"
+    },
+    "U0BBDPPA6": {
+        "color": "8d4b84",
+        "deleted": false,
+        "name": "krousey",
+        "profile": {
+            "first_name": "Kris",
+            "image_192": "https://avatars.slack-edge.com/2015-10-13/12421671302_33c3cbc7e4536a039d5f_192.jpg",
+            "image_24": "https://avatars.slack-edge.com/2015-10-13/12421671302_33c3cbc7e4536a039d5f_24.jpg",
+            "image_32": "https://avatars.slack-edge.com/2015-10-13/12421671302_33c3cbc7e4536a039d5f_32.jpg",
+            "image_48": "https://avatars.slack-edge.com/2015-10-13/12421671302_33c3cbc7e4536a039d5f_48.jpg",
+            "image_72": "https://avatars.slack-edge.com/2015-10-13/12421671302_33c3cbc7e4536a039d5f_72.jpg",
+            "image_original": "https://avatars.slack-edge.com/2015-10-13/12421671302_33c3cbc7e4536a039d5f_original.jpg",
+            "last_name": "Rousey",
+            "real_name": "Kris Rousey",
+            "title": ""
+        },
+        "team": "T09NY5SBT",
+        "user_id": "U0BBDPPA6"
+    },
+    "U0BM389D4": {
+        "color": "965d1b",
+        "deleted": false,
+        "name": "luxas",
+        "profile": {
+            "first_name": "Lucas",
+            "image_192": "https://avatars.slack-edge.com/2017-03-07/151370423350_3c5482b2db2ecb809a17_192.png",
+            "image_24": "https://avatars.slack-edge.com/2017-03-07/151370423350_3c5482b2db2ecb809a17_24.png",
+            "image_32": "https://avatars.slack-edge.com/2017-03-07/151370423350_3c5482b2db2ecb809a17_32.png",
+            "image_48": "https://avatars.slack-edge.com/2017-03-07/151370423350_3c5482b2db2ecb809a17_48.png",
+            "image_72": "https://avatars.slack-edge.com/2017-03-07/151370423350_3c5482b2db2ecb809a17_72.png",
+            "image_original": "https://avatars.slack-edge.com/2017-03-07/151370423350_3c5482b2db2ecb809a17_original.png",
+            "last_name": "K\u00e4ldstr\u00f6m",
+            "real_name": "Lucas K\u00e4ldstr\u00f6m",
+            "title": ""
+        },
+        "team": "T09NY5SBT",
+        "user_id": "U0BM389D4"
+    },
+    "U0EP29FEY": {
+        "color": "a63024",
+        "deleted": false,
+        "name": "chrislovecnm",
+        "profile": {
+            "first_name": "Chris",
+            "image_192": "https://avatars.slack-edge.com/2016-10-26/96850912386_e353295022fe4c7409b2_192.jpg",
+            "image_24": "https://avatars.slack-edge.com/2016-10-26/96850912386_e353295022fe4c7409b2_24.jpg",
+            "image_32": "https://avatars.slack-edge.com/2016-10-26/96850912386_e353295022fe4c7409b2_32.jpg",
+            "image_48": "https://avatars.slack-edge.com/2016-10-26/96850912386_e353295022fe4c7409b2_48.jpg",
+            "image_72": "https://avatars.slack-edge.com/2016-10-26/96850912386_e353295022fe4c7409b2_72.jpg",
+            "image_original": "https://avatars.slack-edge.com/2016-10-26/96850912386_e353295022fe4c7409b2_original.jpg",
+            "last_name": "Love",
+            "real_name": "Chris Love",
+            "title": "k8s and kops - https://chrislovecnm.com"
+        },
+        "team": "T09NY5SBT",
+        "user_id": "U0EP29FEY"
+    },
+    "U0FM44LKD": {
+        "color": "e96699",
+        "deleted": false,
+        "name": "craigtracey",
+        "profile": {
+            "first_name": "",
+            "image_192": "https://secure.gravatar.com/avatar/f773ba0635ef83c42da974d4e4b41f6a.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0005-192.png",
+            "image_24": "https://secure.gravatar.com/avatar/f773ba0635ef83c42da974d4e4b41f6a.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0005-24.png",
+            "image_32": "https://secure.gravatar.com/avatar/f773ba0635ef83c42da974d4e4b41f6a.jpg?s=32&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0005-32.png",
+            "image_48": "https://secure.gravatar.com/avatar/f773ba0635ef83c42da974d4e4b41f6a.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0005-48.png",
+            "image_72": "https://secure.gravatar.com/avatar/f773ba0635ef83c42da974d4e4b41f6a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0005-72.png",
+            "image_original": "",
+            "last_name": "",
+            "real_name": "craigtracey",
+            "title": ""
+        },
+        "team": "T09NY5SBT",
+        "user_id": "U0FM44LKD"
+    },
+    "U0RMRNUV8": {
+        "color": "385a86",
+        "deleted": false,
+        "name": "dwat",
+        "profile": {
+            "first_name": "",
+            "image_192": "https://avatars.slack-edge.com/2017-02-23/144831940161_efecebfc52a18e44f443_192.jpg",
+            "image_24": "https://avatars.slack-edge.com/2017-02-23/144831940161_efecebfc52a18e44f443_24.jpg",
+            "image_32": "https://avatars.slack-edge.com/2017-02-23/144831940161_efecebfc52a18e44f443_32.jpg",
+            "image_48": "https://avatars.slack-edge.com/2017-02-23/144831940161_efecebfc52a18e44f443_48.jpg",
+            "image_72": "https://avatars.slack-edge.com/2017-02-23/144831940161_efecebfc52a18e44f443_72.jpg",
+            "image_original": "https://avatars.slack-edge.com/2017-02-23/144831940161_efecebfc52a18e44f443_original.jpg",
+            "last_name": "",
+            "real_name": "dwat",
+            "title": ""
+        },
+        "team": "T09NY5SBT",
+        "user_id": "U0RMRNUV8"
+    },
+    "U0Y7A2MME": {
+        "color": "e23f99",
+        "deleted": false,
+        "name": "dims",
+        "profile": {
+            "first_name": "Davanum",
+            "image_192": "https://avatars.slack-edge.com/2017-04-22/172490276976_b29d8ff295b37a0b9d54_192.jpg",
+            "image_24": "https://avatars.slack-edge.com/2017-04-22/172490276976_b29d8ff295b37a0b9d54_24.jpg",
+            "image_32": "https://avatars.slack-edge.com/2017-04-22/172490276976_b29d8ff295b37a0b9d54_32.jpg",
+            "image_48": "https://avatars.slack-edge.com/2017-04-22/172490276976_b29d8ff295b37a0b9d54_48.jpg",
+            "image_72": "https://avatars.slack-edge.com/2017-04-22/172490276976_b29d8ff295b37a0b9d54_72.jpg",
+            "image_original": "https://avatars.slack-edge.com/2017-04-22/172490276976_b29d8ff295b37a0b9d54_original.jpg",
+            "last_name": "Srinivas",
+            "real_name": "Davanum Srinivas",
+            "title": ""
+        },
+        "team": "T09NY5SBT",
+        "user_id": "U0Y7A2MME"
+    },
+    "U1C6EK4HL": {
+        "color": "8f4a2b",
+        "deleted": false,
+        "name": "resouer",
+        "profile": {
+            "first_name": "harry",
+            "image_192": "https://avatars.slack-edge.com/2017-09-22/244671264016_3c71b6e61bc728ca7ddf_192.png",
+            "image_24": "https://avatars.slack-edge.com/2017-09-22/244671264016_3c71b6e61bc728ca7ddf_24.png",
+            "image_32": "https://avatars.slack-edge.com/2017-09-22/244671264016_3c71b6e61bc728ca7ddf_32.png",
+            "image_48": "https://avatars.slack-edge.com/2017-09-22/244671264016_3c71b6e61bc728ca7ddf_48.png",
+            "image_72": "https://avatars.slack-edge.com/2017-09-22/244671264016_3c71b6e61bc728ca7ddf_72.png",
+            "image_original": "https://avatars.slack-edge.com/2017-09-22/244671264016_3c71b6e61bc728ca7ddf_original.png",
+            "last_name": "zhang",
+            "real_name": "harry zhang",
+            "title": "scheduling, CRI, node, KataContainer"
+        },
+        "team": "T09NY5SBT",
+        "user_id": "U1C6EK4HL"
+    },
+    "U1W1Q6PRQ": {
+        "color": "8f4a2b",
+        "deleted": false,
+        "name": "jorge",
+        "profile": {
+            "first_name": "Jorge",
+            "image_192": "https://avatars.slack-edge.com/2017-08-07/223229586069_8664ba2b9589223edd36_192.jpg",
+            "image_24": "https://avatars.slack-edge.com/2017-08-07/223229586069_8664ba2b9589223edd36_24.jpg",
+            "image_32": "https://avatars.slack-edge.com/2017-08-07/223229586069_8664ba2b9589223edd36_32.jpg",
+            "image_48": "https://avatars.slack-edge.com/2017-08-07/223229586069_8664ba2b9589223edd36_48.jpg",
+            "image_72": "https://avatars.slack-edge.com/2017-08-07/223229586069_8664ba2b9589223edd36_72.jpg",
+            "image_original": "https://avatars.slack-edge.com/2017-08-07/223229586069_8664ba2b9589223edd36_original.jpg",
+            "last_name": "Castro",
+            "real_name": "Jorge Castro",
+            "title": "kubernetes-community@heptio:~$"
+        },
+        "team": "T09NY5SBT",
+        "user_id": "U1W1Q6PRQ"
+    },
+    "U1ZDD4CUR": {
+        "color": "965d1b",
+        "deleted": false,
+        "name": "calebamiles",
+        "profile": {
+            "first_name": "caleb",
+            "image_192": "https://avatars.slack-edge.com/2017-01-10/125214980177_164a4054754d3a11fd8b_192.jpg",
+            "image_24": "https://avatars.slack-edge.com/2017-01-10/125214980177_164a4054754d3a11fd8b_24.jpg",
+            "image_32": "https://avatars.slack-edge.com/2017-01-10/125214980177_164a4054754d3a11fd8b_32.jpg",
+            "image_48": "https://avatars.slack-edge.com/2017-01-10/125214980177_164a4054754d3a11fd8b_48.jpg",
+            "image_72": "https://avatars.slack-edge.com/2017-01-10/125214980177_164a4054754d3a11fd8b_72.jpg",
+            "image_original": "https://avatars.slack-edge.com/2017-01-10/125214980177_164a4054754d3a11fd8b_original.jpg",
+            "last_name": "miles",
+            "real_name": "caleb miles",
+            "title": "Technical Program Manager"
+        },
+        "team": "T09NY5SBT",
+        "user_id": "U1ZDD4CUR"
+    },
+    "U29Q3PTT3": {
+        "color": "de5f24",
+        "deleted": false,
+        "name": "kris-nova",
+        "profile": {
+            "first_name": "Kris",
+            "image_192": "https://avatars.slack-edge.com/2017-11-07/268467856725_9d8a6cabe2b9613f694f_192.jpg",
+            "image_24": "https://avatars.slack-edge.com/2017-11-07/268467856725_9d8a6cabe2b9613f694f_24.jpg",
+            "image_32": "https://avatars.slack-edge.com/2017-11-07/268467856725_9d8a6cabe2b9613f694f_32.jpg",
+            "image_48": "https://avatars.slack-edge.com/2017-11-07/268467856725_9d8a6cabe2b9613f694f_48.jpg",
+            "image_72": "https://avatars.slack-edge.com/2017-11-07/268467856725_9d8a6cabe2b9613f694f_72.jpg",
+            "image_original": "https://avatars.slack-edge.com/2017-11-07/268467856725_9d8a6cabe2b9613f694f_original.jpg",
+            "last_name": "Nova",
+            "real_name": "Kris Nova",
+            "title": "Infrastructure Layer Things"
+        },
+        "team": "T09NY5SBT",
+        "user_id": "U29Q3PTT3"
+    },
+    "U2KBT7MFY": {
+        "color": "7d414c",
+        "deleted": false,
+        "name": "pipejakob",
+        "profile": {
+            "first_name": "Jacob",
+            "image_192": "https://secure.gravatar.com/avatar/8afb028756a7ac7073d42111e8998ac8.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0018-192.png",
+            "image_24": "https://secure.gravatar.com/avatar/8afb028756a7ac7073d42111e8998ac8.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0018-24.png",
+            "image_32": "https://secure.gravatar.com/avatar/8afb028756a7ac7073d42111e8998ac8.jpg?s=32&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0018-32.png",
+            "image_48": "https://secure.gravatar.com/avatar/8afb028756a7ac7073d42111e8998ac8.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0018-48.png",
+            "image_72": "https://secure.gravatar.com/avatar/8afb028756a7ac7073d42111e8998ac8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F3654%2Fimg%2Favatars%2Fava_0018-72.png",
+            "image_original": "",
+            "last_name": "Beacham",
+            "real_name": "Jacob Beacham",
+            "title": ""
+        },
+        "team": "T09NY5SBT",
+        "user_id": "U2KBT7MFY"
+    },
+    "U2QULDYKU": {
+        "color": "9d8eee",
+        "deleted": false,
+        "name": "neelima",
+        "profile": {
+            "first_name": "Neelima",
+            "image_192": "https://secure.gravatar.com/avatar/826d7232944b0df8a06b44a038474148.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0014-192.png",
+            "image_24": "https://secure.gravatar.com/avatar/826d7232944b0df8a06b44a038474148.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0014-24.png",
+            "image_32": "https://secure.gravatar.com/avatar/826d7232944b0df8a06b44a038474148.jpg?s=32&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0014-32.png",
+            "image_48": "https://secure.gravatar.com/avatar/826d7232944b0df8a06b44a038474148.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0014-48.png",
+            "image_72": "https://secure.gravatar.com/avatar/826d7232944b0df8a06b44a038474148.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0014-72.png",
+            "image_original": "",
+            "last_name": "Mukiri",
+            "real_name": "Neelima Mukiri",
+            "title": ""
+        },
+        "team": "T09NY5SBT",
+        "user_id": "U2QULDYKU"
+    },
+    "U3LBAU3LN": {
+        "color": "db3150",
+        "deleted": false,
+        "name": "fabrizio.pandini",
+        "profile": {
+            "first_name": "Fabrizio",
+            "image_192": "https://secure.gravatar.com/avatar/53fbf935d521525da5ba180340bd1faf.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0010-192.png",
+            "image_24": "https://secure.gravatar.com/avatar/53fbf935d521525da5ba180340bd1faf.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0010-24.png",
+            "image_32": "https://secure.gravatar.com/avatar/53fbf935d521525da5ba180340bd1faf.jpg?s=32&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0010-32.png",
+            "image_48": "https://secure.gravatar.com/avatar/53fbf935d521525da5ba180340bd1faf.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0010-48.png",
+            "image_72": "https://secure.gravatar.com/avatar/53fbf935d521525da5ba180340bd1faf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0010-72.png",
+            "image_original": "",
+            "last_name": "Pandini",
+            "real_name": "Fabrizio Pandini",
+            "title": ""
+        },
+        "team": "T09NY5SBT",
+        "user_id": "U3LBAU3LN"
+    },
+    "U3W18JQLF": {
+        "color": "d58247",
+        "deleted": false,
+        "name": "stealthybox",
+        "profile": {
+            "first_name": "Leigh",
+            "image_192": "https://avatars.slack-edge.com/2017-01-25/132596120549_c5bfaeb1f2352e6d6ed5_192.jpg",
+            "image_24": "https://avatars.slack-edge.com/2017-01-25/132596120549_c5bfaeb1f2352e6d6ed5_24.jpg",
+            "image_32": "https://avatars.slack-edge.com/2017-01-25/132596120549_c5bfaeb1f2352e6d6ed5_32.jpg",
+            "image_48": "https://avatars.slack-edge.com/2017-01-25/132596120549_c5bfaeb1f2352e6d6ed5_48.jpg",
+            "image_72": "https://avatars.slack-edge.com/2017-01-25/132596120549_c5bfaeb1f2352e6d6ed5_72.jpg",
+            "image_original": "https://avatars.slack-edge.com/2017-01-25/132596120549_c5bfaeb1f2352e6d6ed5_original.jpg",
+            "last_name": "Capili",
+            "real_name": "Leigh Capili",
+            "title": ""
+        },
+        "team": "T09NY5SBT",
+        "user_id": "U3W18JQLF"
+    },
+    "U7N2KNAHZ": {
+        "color": "9d8eee",
+        "deleted": false,
+        "name": "devlapse",
+        "profile": {
+            "first_name": "",
+            "image_192": "https://secure.gravatar.com/avatar/c302df8280bd64fcc46ee9ab76dcd0cc.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0019-192.png",
+            "image_24": "https://secure.gravatar.com/avatar/c302df8280bd64fcc46ee9ab76dcd0cc.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0019-24.png",
+            "image_32": "https://secure.gravatar.com/avatar/c302df8280bd64fcc46ee9ab76dcd0cc.jpg?s=32&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0019-32.png",
+            "image_48": "https://secure.gravatar.com/avatar/c302df8280bd64fcc46ee9ab76dcd0cc.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0019-48.png",
+            "image_72": "https://secure.gravatar.com/avatar/c302df8280bd64fcc46ee9ab76dcd0cc.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0019-72.png",
+            "image_original": "",
+            "last_name": "",
+            "real_name": "David Lapsley",
+            "title": ""
+        },
+        "team": "T09NY5SBT",
+        "user_id": "U7N2KNAHZ"
+    },
+    "U7W31KRLK": {
+        "color": "4d5e26",
+        "deleted": false,
+        "name": "ieugen",
+        "profile": {
+            "first_name": "",
+            "image_192": "https://secure.gravatar.com/avatar/142a30868d12411cb159b7d57b8e5b64.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0020-192.png",
+            "image_24": "https://secure.gravatar.com/avatar/142a30868d12411cb159b7d57b8e5b64.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0020-24.png",
+            "image_32": "https://secure.gravatar.com/avatar/142a30868d12411cb159b7d57b8e5b64.jpg?s=32&d=https%3A%2F%2Fa.slack-edge.com%2F0180%2Fimg%2Favatars%2Fava_0020-32.png",
+            "image_48": "https://secure.gravatar.com/avatar/142a30868d12411cb159b7d57b8e5b64.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0020-48.png",
+            "image_72": "https://secure.gravatar.com/avatar/142a30868d12411cb159b7d57b8e5b64.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0020-72.png",
+            "image_original": "",
+            "last_name": "",
+            "real_name": "Eugen Stan",
+            "title": ""
+        },
+        "team": "T09NY5SBT",
+        "user_id": "U7W31KRLK"
+    },
+    "U85AQG563": {
+        "color": "4cc091",
+        "deleted": false,
+        "name": "matthew.joseph.kelly",
+        "profile": {
+            "first_name": "Matt",
+            "image_192": "https://secure.gravatar.com/avatar/5c5ed8598d2b4aa7b258ceb6c9918b3c.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0000-192.png",
+            "image_24": "https://secure.gravatar.com/avatar/5c5ed8598d2b4aa7b258ceb6c9918b3c.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0000-24.png",
+            "image_32": "https://secure.gravatar.com/avatar/5c5ed8598d2b4aa7b258ceb6c9918b3c.jpg?s=32&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0000-32.png",
+            "image_48": "https://secure.gravatar.com/avatar/5c5ed8598d2b4aa7b258ceb6c9918b3c.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0000-48.png",
+            "image_72": "https://secure.gravatar.com/avatar/5c5ed8598d2b4aa7b258ceb6c9918b3c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0000-72.png",
+            "image_original": "",
+            "last_name": "Kelly",
+            "real_name": "Matt Kelly",
+            "title": "Engineer @ Containership"
+        },
+        "team": "T09NY5SBT",
+        "user_id": "U85AQG563"
+    }
+}

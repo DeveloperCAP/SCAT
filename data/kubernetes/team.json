@@ -1,0 +1,18 @@
+{
+    "domain": "kubernetes",
+    "icon": {
+        "image_102": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-08-28/9848790176_f77360d6ad99aafb6ef3_44.jpg",
+        "image_132": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-08-28/9848790176_f77360d6ad99aafb6ef3_44.jpg",
+        "image_230": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-08-28/9848790176_f77360d6ad99aafb6ef3_44.jpg",
+        "image_34": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-08-28/9848790176_f77360d6ad99aafb6ef3_34.jpg",
+        "image_44": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-08-28/9848790176_f77360d6ad99aafb6ef3_44.jpg",
+        "image_68": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-08-28/9848790176_f77360d6ad99aafb6ef3_44.jpg",
+        "image_88": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-08-28/9848790176_f77360d6ad99aafb6ef3_44.jpg",
+        "image_original": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-08-28/9848790176_f77360d6ad99aafb6ef3_original.jpg"
+    },
+    "is_disabled": false,
+    "is_hidden": false,
+    "name": "Kubernetes",
+    "plan": "",
+    "team_id": "T09NY5SBT"
+}
